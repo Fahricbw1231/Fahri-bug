@@ -22,7 +22,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6283172862360','6283172862360','6283172862360']
+global.owner = ['6283172862360','6285727038669','6283172862360','6283172862360']
 global.premium = ['6283172862360']
 global.packname = 'Sticker By'
 global.author = 'Fahri ???'
